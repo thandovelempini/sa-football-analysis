@@ -1,4 +1,4 @@
-# sa_football_analysis
+# Betway Premiership: Performance Analysis & Match Prediction
 
 Betway Premiership (South African top-flight football) performance analysis and match outcome prediction project, built as a portfolio piece for football analytics roles. 
 
