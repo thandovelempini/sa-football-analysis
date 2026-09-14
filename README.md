@@ -102,7 +102,7 @@ The second page focuses on the machine-learning component:
 - Prediction classes
 - Number of predictions 
 - Correct predictions 
-- Model accuracy across iterations
+- Model accuracy across iteration
 - Prediction accuracy by result 
 - Actual vs predicted results 
 - Sample match predictions 
@@ -167,3 +167,4 @@ Python is used for data collection, cleaning, feature engineering and modelling,
 ## AI Assistance
 
 AI tools were used selectively during the development of this project to assist with debugging, code refinement, documentation, and problem-solving. All analytical decisions, feature selection, model evaluation, and conclusions were reviewed and validated as part of the project development process.
+
