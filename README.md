@@ -96,6 +96,7 @@ The first page provides a descriptive overview of:
 - Goals per match across seasons
 - Match-level results 
 - Key performance findings 
+![Betway Premiership Performance Dashboard](powerbi/screenshots/Betway Premiership Performance.png)
 
 ## Page 2 - Match Outcome Prediction
 The second page focuses on the machine-learning component:
@@ -108,6 +109,7 @@ The second page focuses on the machine-learning component:
 - Actual vs predicted results 
 - Sample match predictions 
 - Model interpretation and limitations 
+![Betway Premiership Performance Dashboard](powerbi/screenshots/Match Outcome Prediction.png)
 
 ## Key findings
 
@@ -167,4 +169,3 @@ Python is used for data collection, cleaning, feature engineering and modelling,
 ## AI Assistance
 
 AI tools were used selectively during the development of this project to assist with debugging, code refinement, documentation, and problem-solving. All analytical decisions, feature selection, model evaluation, and conclusions were reviewed and validated as part of the project development process.
-
