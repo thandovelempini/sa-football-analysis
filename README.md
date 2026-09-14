@@ -21,8 +21,7 @@ The project focuses on two main questions:
 sa_football_analysis/
 ├── data/
 │   ├── raw/              
-│   └── processed/ 
-├── notebooks/            
+│   └── processed/            
 ├── src/   
 │   ├── export_predictions.py 
 │   ├── features.py
@@ -30,8 +29,7 @@ sa_football_analysis/
 │   ├── model.py
 │   ├── scrape_matches.py
 │   ├── squad_values.py
-│   └── teams.py
-├── outputs/              
+│   └── teams.py            
 ├── powerbi/            
 └── README.md
 ```
