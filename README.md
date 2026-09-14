@@ -96,7 +96,7 @@ The first page provides a descriptive overview of:
 - Goals per match across seasons
 - Match-level results 
 - Key performance findings 
-![Betway Premiership Performance Dashboard](powerbi/screenshots/Betway Premiership Performance.png)
+![Betway Premiership Performance Dashboard](powerbi/screenshots/Betway_Premiership_Performance.png)
 
 ## Page 2 - Match Outcome Prediction
 The second page focuses on the machine-learning component:
@@ -109,7 +109,7 @@ The second page focuses on the machine-learning component:
 - Actual vs predicted results 
 - Sample match predictions 
 - Model interpretation and limitations 
-![Betway Premiership Performance Dashboard](powerbi/screenshots/Match Outcome Prediction.png)
+![Betway Premiership Performance Dashboard](powerbi/screenshots/Match_Outcome_Prediction.png)
 
 ## Key findings
 
