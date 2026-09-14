@@ -164,3 +164,7 @@ Power BI dashboard
 
 Python is used for data collection, cleaning, feature engineering and modelling, while Power BI is used for interactive analysis and presentation.
 
+## AI Assistance
+
+AI tools were used selectively during the development of this project to assist with debugging, code refinement, documentation, and problem-solving. All analytical decisions, feature selection, model evaluation, and conclusions were reviewed and validated as part of the project development process.
+
