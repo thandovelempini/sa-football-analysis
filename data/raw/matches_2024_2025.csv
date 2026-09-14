@@ -1,0 +1,241 @@
+home_team,away_team,home_score,away_score,status,date,netsport_id,matchday,season
+Royal AM,Cape Town City,1,1,FINISHED,14/09/2024,1557198,Matchday 1,2024-2025
+Marumo Gallants,Kaizer Chiefs,1,2,FINISHED,14/09/2024,1557225,Matchday 1,2024-2025
+Polokwane City,AmaZulu FC,2,1,FINISHED,14/09/2024,1557223,Matchday 1,2024-2025
+Richards Bay,TS Galaxy,1,0,FINISHED,15/09/2024,1557221,Matchday 1,2024-2025
+Mamelodi Sundowns,Siwelele FC,2,0,FINISHED,17/09/2024,1557212,Matchday 1,2024-2025
+Sekhukhune United,Magesi,1,0,FINISHED,18/09/2024,1557222,Matchday 1,2024-2025
+Stellenbosch,Golden Arrows,0,2,FINISHED,18/09/2024,1557220,Matchday 1,2024-2025
+Orlando Pirates,Chippa United FC,2,1,FINISHED,18/09/2024,1557224,Matchday 1,2024-2025
+Magesi,Polokwane City,0,2,FINISHED,21/09/2024,1557216,Matchday 2,2024-2025
+Golden Arrows,Marumo Gallants,2,0,FINISHED,21/09/2024,1557217,Matchday 2,2024-2025
+Siwelele FC,Royal AM,0,0,FINISHED,21/09/2024,1557215,Matchday 2,2024-2025
+Chippa United FC,Richards Bay,1,0,FINISHED,21/09/2024,1557227,Matchday 2,2024-2025
+Cape Town City,Orlando Pirates,1,0,FINISHED,08/01/2025,1557218,Matchday 2,2024-2025
+Kaizer Chiefs,Stellenbosch,2,1,FINISHED,08/01/2025,1557213,Matchday 2,2024-2025
+AmaZulu FC,Sekhukhune United,0,2,FINISHED,08/01/2025,1557228,Matchday 2,2024-2025
+TS Galaxy,Mamelodi Sundowns,1,0,FINISHED,11/02/2025,1557219,Matchday 2,2024-2025
+Orlando Pirates,Polokwane City,3,0,FINISHED,24/09/2024,1557211,Matchday 3,2024-2025
+Mamelodi Sundowns,Marumo Gallants,4,1,FINISHED,24/09/2024,1557210,Matchday 3,2024-2025
+Royal AM,Richards Bay,0,0,FINISHED,24/09/2024,1557209,Matchday 3,2024-2025
+Siwelele FC,TS Galaxy,1,0,FINISHED,25/09/2024,1557206,Matchday 3,2024-2025
+Stellenbosch,Cape Town City,3,0,FINISHED,25/09/2024,1557205,Matchday 3,2024-2025
+Sekhukhune United,Chippa United FC,1,1,FINISHED,25/09/2024,1557207,Matchday 3,2024-2025
+AmaZulu FC,Kaizer Chiefs,1,3,FINISHED,25/09/2024,1557204,Matchday 3,2024-2025
+Golden Arrows,Magesi,0,1,FINISHED,26/09/2024,1557208,Matchday 3,2024-2025
+Sekhukhune United,Golden Arrows,2,0,FINISHED,28/09/2024,1557203,Matchday 4,2024-2025
+Kaizer Chiefs,Mamelodi Sundowns,1,2,FINISHED,28/09/2024,1557202,Matchday 4,2024-2025
+Magesi,Royal AM,0,0,FINISHED,28/09/2024,1557201,Matchday 4,2024-2025
+Cape Town City,Siwelele FC,1,0,FINISHED,28/09/2024,1557200,Matchday 4,2024-2025
+Marumo Gallants,AmaZulu FC,1,0,FINISHED,28/09/2024,1557257,Matchday 4,2024-2025
+Chippa United FC,TS Galaxy,2,1,FINISHED,29/09/2024,1557242,Matchday 4,2024-2025
+Richards Bay,Orlando Pirates,0,1,FINISHED,29/09/2024,1557214,Matchday 4,2024-2025
+Polokwane City,Stellenbosch,1,1,FINISHED,29/09/2024,1557138,Matchday 4,2024-2025
+Orlando Pirates,AmaZulu FC,2,1,FINISHED,25/10/2024,1557255,Matchday 5,2024-2025
+Royal AM,Sekhukhune United,2,0,FINISHED,26/10/2024,1557250,Matchday 5,2024-2025
+Richards Bay,Stellenbosch,0,0,FINISHED,26/10/2024,1557254,Matchday 5,2024-2025
+Marumo Gallants,TS Galaxy,1,1,FINISHED,26/10/2024,1557253,Matchday 5,2024-2025
+Siwelele FC,Kaizer Chiefs,1,0,FINISHED,26/10/2024,1557252,Matchday 5,2024-2025
+Chippa United FC,Golden Arrows,2,0,FINISHED,26/10/2024,1557251,Matchday 5,2024-2025
+Cape Town City,Magesi,0,0,FINISHED,27/10/2024,1557249,Matchday 5,2024-2025
+Polokwane City,Mamelodi Sundowns,1,0,FINISHED,27/10/2024,1557248,Matchday 5,2024-2025
+AmaZulu FC,Chippa United FC,2,0,FINISHED,29/10/2024,1557247,Matchday 6,2024-2025
+Sekhukhune United,Richards Bay,2,0,FINISHED,29/10/2024,1557246,Matchday 6,2024-2025
+TS Galaxy,Orlando Pirates,0,2,FINISHED,29/10/2024,1557245,Matchday 6,2024-2025
+Mamelodi Sundowns,Cape Town City,3,0,FINISHED,30/10/2024,1557197,Matchday 6,2024-2025
+Golden Arrows,Siwelele FC,0,0,FINISHED,30/10/2024,1557226,Matchday 6,2024-2025
+Royal AM,Polokwane City,0,1,FINISHED,30/10/2024,1557240,Matchday 6,2024-2025
+Magesi,Kaizer Chiefs,2,2,FINISHED,30/10/2024,1557241,Matchday 6,2024-2025
+Stellenbosch,Marumo Gallants,1,0,FINISHED,31/10/2024,1557243,Matchday 6,2024-2025
+Siwelele FC,Marumo Gallants,0,1,FINISHED,29/11/2024,1557232,Matchday 7,2024-2025
+Richards Bay,AmaZulu FC,1,3,FINISHED,30/11/2024,1557239,Matchday 7,2024-2025
+Kaizer Chiefs,Royal AM,2,2,FINISHED,30/11/2024,1557236,Matchday 7,2024-2025
+Mamelodi Sundowns,Sekhukhune United,3,0,FINISHED,30/11/2024,1557237,Matchday 7,2024-2025
+Chippa United FC,Magesi,2,0,FINISHED,30/11/2024,1557234,Matchday 7,2024-2025
+Orlando Pirates,Stellenbosch,0,1,FINISHED,01/12/2024,1557233,Matchday 7,2024-2025
+Golden Arrows,Cape Town City,3,2,FINISHED,01/12/2024,1557238,Matchday 7,2024-2025
+Polokwane City,TS Galaxy,1,1,FINISHED,01/12/2024,1557235,Matchday 7,2024-2025
+Sekhukhune United,TS Galaxy,1,3,FINISHED,26/11/2024,1557244,Matchday 8,2024-2025
+Chippa United FC,Siwelele FC,0,0,FINISHED,26/11/2024,1557231,Matchday 8,2024-2025
+Royal AM,Golden Arrows,2,3,FINISHED,26/11/2024,1557229,Matchday 8,2024-2025
+Kaizer Chiefs,Richards Bay,2,1,FINISHED,27/11/2024,1557164,Matchday 8,2024-2025
+Cape Town City,Polokwane City,1,0,FINISHED,27/11/2024,1557199,Matchday 8,2024-2025
+AmaZulu FC,Mamelodi Sundowns,0,1,FINISHED,24/12/2024,1557165,Matchday 8,2024-2025
+Marumo Gallants,Orlando Pirates,2,0,FINISHED,01/03/2025,1557230,Matchday 8,2024-2025
+Magesi,Stellenbosch,1,0,FINISHED,29/03/2025,1557152,Matchday 8,2024-2025
+Richards Bay,Siwelele FC,0,1,FINISHED,06/12/2024,1557161,Matchday 9,2024-2025
+TS Galaxy,AmaZulu FC,1,0,FINISHED,07/12/2024,1557159,Matchday 9,2024-2025
+Marumo Gallants,Magesi,3,1,FINISHED,07/12/2024,1557160,Matchday 9,2024-2025
+Stellenbosch,Royal AM,,,UPCOMING,07/12/2024,1557163,Matchday 9,2024-2025
+Sekhukhune United,Cape Town City,1,0,FINISHED,07/12/2024,1557158,Matchday 9,2024-2025
+Polokwane City,Kaizer Chiefs,2,0,FINISHED,08/12/2024,1557156,Matchday 9,2024-2025
+Mamelodi Sundowns,Chippa United FC,3,0,FINISHED,07/05/2025,1557157,Matchday 9,2024-2025
+Orlando Pirates,Golden Arrows,3,0,FINISHED,13/05/2025,1557162,Matchday 9,2024-2025
+AmaZulu FC,Royal AM,2,1,FINISHED,13/12/2024,1557155,Matchday 10,2024-2025
+Golden Arrows,Richards Bay,0,1,FINISHED,14/12/2024,1557153,Matchday 10,2024-2025
+Chippa United FC,Cape Town City,0,1,FINISHED,14/12/2024,1557168,Matchday 10,2024-2025
+Siwelele FC,Magesi,1,0,FINISHED,14/12/2024,1557150,Matchday 10,2024-2025
+Polokwane City,Marumo Gallants,1,0,FINISHED,15/12/2024,1557149,Matchday 10,2024-2025
+TS Galaxy,Kaizer Chiefs,1,1,FINISHED,16/12/2024,1557148,Matchday 10,2024-2025
+Stellenbosch,Mamelodi Sundowns,0,1,FINISHED,18/12/2024,1557151,Matchday 10,2024-2025
+Orlando Pirates,Sekhukhune United,0,1,FINISHED,30/04/2025,1557167,Matchday 10,2024-2025
+Golden Arrows,Polokwane City,0,0,FINISHED,28/12/2024,1557146,Matchday 11,2024-2025
+Richards Bay,Mamelodi Sundowns,0,2,FINISHED,28/12/2024,1557147,Matchday 11,2024-2025
+Sekhukhune United,Marumo Gallants,1,0,FINISHED,28/12/2024,1557145,Matchday 11,2024-2025
+Siwelele FC,Stellenbosch,1,1,FINISHED,28/12/2024,1557144,Matchday 11,2024-2025
+Royal AM,TS Galaxy,1,3,FINISHED,29/12/2024,1557143,Matchday 11,2024-2025
+Magesi,Orlando Pirates,0,1,FINISHED,29/12/2024,1557142,Matchday 11,2024-2025
+Cape Town City,AmaZulu FC,0,1,FINISHED,29/12/2024,1557141,Matchday 11,2024-2025
+Kaizer Chiefs,Chippa United FC,1,0,FINISHED,29/12/2024,1557140,Matchday 11,2024-2025
+Orlando Pirates,Siwelele FC,2,0,FINISHED,22/10/2024,1557139,Matchday 12,2024-2025
+Chippa United FC,Stellenbosch,0,2,FINISHED,23/10/2024,1557314,Matchday 12,2024-2025
+Mamelodi Sundowns,Royal AM,2,1,FINISHED,23/10/2024,1557195,Matchday 12,2024-2025
+AmaZulu FC,Golden Arrows,0,0,FINISHED,04/01/2025,1557196,Matchday 12,2024-2025
+TS Galaxy,Magesi,0,0,FINISHED,04/01/2025,1557182,Matchday 12,2024-2025
+Marumo Gallants,Richards Bay,0,0,FINISHED,04/01/2025,1557194,Matchday 12,2024-2025
+Polokwane City,Sekhukhune United,1,1,FINISHED,05/01/2025,1557193,Matchday 12,2024-2025
+Cape Town City,Kaizer Chiefs,1,0,FINISHED,05/01/2025,1557192,Matchday 12,2024-2025
+Stellenbosch,TS Galaxy,1,1,FINISHED,06/11/2024,1557186,Matchday 13,2024-2025
+Magesi,AmaZulu FC,0,1,FINISHED,11/01/2025,1557190,Matchday 13,2024-2025
+Marumo Gallants,Cape Town City,1,0,FINISHED,11/01/2025,1557188,Matchday 13,2024-2025
+Chippa United FC,Royal AM,,,UPCOMING,11/01/2025,1557187,Matchday 13,2024-2025
+Kaizer Chiefs,Golden Arrows,0,1,FINISHED,12/01/2025,1557185,Matchday 13,2024-2025
+Siwelele FC,Sekhukhune United,0,3,FINISHED,12/01/2025,1557166,Matchday 13,2024-2025
+Mamelodi Sundowns,Orlando Pirates,4,1,FINISHED,08/02/2025,1557189,Matchday 13,2024-2025
+Richards Bay,Polokwane City,2,0,FINISHED,08/02/2025,1557191,Matchday 13,2024-2025
+Cape Town City,Richards Bay,2,1,FINISHED,17/01/2025,1557181,Matchday 14,2024-2025
+Siwelele FC,Polokwane City,0,1,FINISHED,17/01/2025,1557258,Matchday 14,2024-2025
+Golden Arrows,TS Galaxy,1,1,FINISHED,18/01/2025,1557180,Matchday 14,2024-2025
+Chippa United FC,Marumo Gallants,2,2,FINISHED,18/01/2025,1557178,Matchday 14,2024-2025
+Kaizer Chiefs,Sekhukhune United,1,0,FINISHED,19/01/2025,1557177,Matchday 14,2024-2025
+Magesi,Mamelodi Sundowns,1,2,FINISHED,22/01/2025,1557179,Matchday 14,2024-2025
+AmaZulu FC,Stellenbosch,0,5,FINISHED,23/01/2025,1557176,Matchday 14,2024-2025
+Royal AM,Orlando Pirates,,,UPCOMING,23/01/2025,1557183,Matchday 14,2024-2025
+Richards Bay,Magesi,0,0,FINISHED,31/01/2025,1557175,Matchday 15,2024-2025
+Orlando Pirates,Kaizer Chiefs,1,0,FINISHED,01/02/2025,1557172,Matchday 15,2024-2025
+Marumo Gallants,Royal AM,,,UPCOMING,01/02/2025,1557173,Matchday 15,2024-2025
+Stellenbosch,Sekhukhune United,1,1,FINISHED,01/02/2025,1557174,Matchday 15,2024-2025
+Polokwane City,Chippa United FC,1,0,FINISHED,01/02/2025,1557171,Matchday 15,2024-2025
+AmaZulu FC,Siwelele FC,2,1,FINISHED,01/02/2025,1557170,Matchday 15,2024-2025
+TS Galaxy,Cape Town City,2,0,FINISHED,02/02/2025,1557169,Matchday 15,2024-2025
+Mamelodi Sundowns,Golden Arrows,4,0,FINISHED,02/02/2025,1557184,Matchday 15,2024-2025
+Royal AM,Stellenbosch,,,UPCOMING,04/02/2025,1557345,Matchday 16,2024-2025
+Richards Bay,Marumo Gallants,2,1,FINISHED,04/02/2025,1557332,Matchday 16,2024-2025
+Kaizer Chiefs,AmaZulu FC,2,2,FINISHED,04/02/2025,1557344,Matchday 16,2024-2025
+Magesi,Chippa United FC,1,4,FINISHED,05/02/2025,1557318,Matchday 16,2024-2025
+Cape Town City,Golden Arrows,1,1,FINISHED,05/02/2025,1557343,Matchday 16,2024-2025
+Siwelele FC,Mamelodi Sundowns,0,3,FINISHED,05/02/2025,1557341,Matchday 16,2024-2025
+Sekhukhune United,Orlando Pirates,1,2,FINISHED,05/02/2025,1557342,Matchday 16,2024-2025
+TS Galaxy,Polokwane City,0,0,FINISHED,05/02/2025,1557340,Matchday 16,2024-2025
+Orlando Pirates,Richards Bay,1,0,FINISHED,05/11/2024,1557333,Matchday 17,2024-2025
+Mamelodi Sundowns,Polokwane City,2,0,FINISHED,06/11/2024,1557336,Matchday 17,2024-2025
+Stellenbosch,Kaizer Chiefs,0,1,FINISHED,07/02/2025,1557338,Matchday 17,2024-2025
+AmaZulu FC,Marumo Gallants,2,0,FINISHED,07/02/2025,1557339,Matchday 17,2024-2025
+Magesi,Cape Town City,2,0,FINISHED,08/02/2025,1557337,Matchday 17,2024-2025
+TS Galaxy,Chippa United FC,1,0,FINISHED,08/02/2025,1557335,Matchday 17,2024-2025
+Sekhukhune United,Siwelele FC,1,1,FINISHED,09/02/2025,1557348,Matchday 17,2024-2025
+Golden Arrows,Royal AM,,,UPCOMING,09/02/2025,1557347,Matchday 17,2024-2025
+Richards Bay,Royal AM,,,UPCOMING,18/02/2025,1557328,Matchday 18,2024-2025
+Polokwane City,Magesi,0,1,FINISHED,18/02/2025,1557329,Matchday 18,2024-2025
+Kaizer Chiefs,Siwelele FC,1,4,FINISHED,18/02/2025,1557331,Matchday 18,2024-2025
+Cape Town City,Chippa United FC,0,2,FINISHED,18/02/2025,1557330,Matchday 18,2024-2025
+TS Galaxy,Stellenbosch,2,3,FINISHED,18/02/2025,1557327,Matchday 18,2024-2025
+Sekhukhune United,AmaZulu FC,4,2,FINISHED,19/02/2025,1557326,Matchday 18,2024-2025
+Marumo Gallants,Mamelodi Sundowns,1,3,FINISHED,19/02/2025,1557325,Matchday 18,2024-2025
+Golden Arrows,Orlando Pirates,1,2,FINISHED,06/05/2025,1557324,Matchday 18,2024-2025
+Royal AM,Kaizer Chiefs,,,UPCOMING,21/02/2025,1557322,Matchday 19,2024-2025
+Stellenbosch,Richards Bay,1,1,FINISHED,21/02/2025,1557323,Matchday 19,2024-2025
+Orlando Pirates,Cape Town City,2,1,FINISHED,22/02/2025,1557321,Matchday 19,2024-2025
+Chippa United FC,Sekhukhune United,0,1,FINISHED,22/02/2025,1557320,Matchday 19,2024-2025
+Mamelodi Sundowns,TS Galaxy,4,1,FINISHED,22/02/2025,1557256,Matchday 19,2024-2025
+AmaZulu FC,Magesi,3,0,FINISHED,22/02/2025,1557334,Matchday 19,2024-2025
+Marumo Gallants,Polokwane City,0,0,FINISHED,23/02/2025,1557362,Matchday 19,2024-2025
+Siwelele FC,Golden Arrows,1,1,FINISHED,29/05/2025,1557376,Matchday 19,2024-2025
+Orlando Pirates,Marumo Gallants,8,1,FINISHED,24/12/2024,1557375,Matchday 20,2024-2025
+Stellenbosch,Polokwane City,1,1,FINISHED,28/02/2025,1557374,Matchday 20,2024-2025
+Magesi,Siwelele FC,1,0,FINISHED,01/03/2025,1557373,Matchday 20,2024-2025
+Mamelodi Sundowns,Kaizer Chiefs,1,0,FINISHED,01/03/2025,1557372,Matchday 20,2024-2025
+TS Galaxy,Golden Arrows,2,0,FINISHED,01/03/2025,1557371,Matchday 20,2024-2025
+Richards Bay,Chippa United FC,0,0,FINISHED,01/03/2025,1557370,Matchday 20,2024-2025
+AmaZulu FC,Cape Town City,2,0,FINISHED,02/03/2025,1557368,Matchday 20,2024-2025
+Sekhukhune United,Royal AM,,,UPCOMING,02/03/2025,1557369,Matchday 20,2024-2025
+Kaizer Chiefs,Magesi,1,0,FINISHED,04/03/2025,1557366,Matchday 21,2024-2025
+Marumo Gallants,Stellenbosch,0,1,FINISHED,04/03/2025,1557367,Matchday 21,2024-2025
+Polokwane City,Royal AM,,,UPCOMING,05/03/2025,1557363,Matchday 21,2024-2025
+Richards Bay,Sekhukhune United,2,1,FINISHED,05/03/2025,1557317,Matchday 21,2024-2025
+Chippa United FC,Orlando Pirates,0,1,FINISHED,05/03/2025,1557361,Matchday 21,2024-2025
+Siwelele FC,AmaZulu FC,0,0,FINISHED,05/03/2025,1557365,Matchday 21,2024-2025
+Cape Town City,TS Galaxy,1,1,FINISHED,05/03/2025,1557360,Matchday 21,2024-2025
+Golden Arrows,Mamelodi Sundowns,1,1,FINISHED,05/03/2025,1557346,Matchday 21,2024-2025
+Royal AM,Chippa United FC,,,UPCOMING,11/03/2025,1557356,Matchday 22,2024-2025
+Stellenbosch,Orlando Pirates,0,0,FINISHED,11/03/2025,1557357,Matchday 22,2024-2025
+Mamelodi Sundowns,AmaZulu FC,2,0,FINISHED,11/03/2025,1557358,Matchday 22,2024-2025
+TS Galaxy,Siwelele FC,3,1,FINISHED,11/03/2025,1557359,Matchday 22,2024-2025
+Magesi,Richards Bay,1,0,FINISHED,11/03/2025,1557355,Matchday 22,2024-2025
+Kaizer Chiefs,Cape Town City,0,0,FINISHED,12/03/2025,1557354,Matchday 22,2024-2025
+Polokwane City,Golden Arrows,0,1,FINISHED,12/03/2025,1557352,Matchday 22,2024-2025
+Marumo Gallants,Sekhukhune United,1,2,FINISHED,12/03/2025,1557353,Matchday 22,2024-2025
+Royal AM,Siwelele FC,,,UPCOMING,14/03/2025,1557351,Matchday 23,2024-2025
+AmaZulu FC,TS Galaxy,1,2,FINISHED,14/03/2025,1557350,Matchday 23,2024-2025
+Magesi,Golden Arrows,1,0,FINISHED,15/03/2025,1557349,Matchday 23,2024-2025
+Cape Town City,Marumo Gallants,0,1,FINISHED,15/03/2025,1557364,Matchday 23,2024-2025
+Chippa United FC,Polokwane City,2,0,FINISHED,15/03/2025,1557319,Matchday 23,2024-2025
+Richards Bay,Kaizer Chiefs,2,0,FINISHED,16/03/2025,1557285,Matchday 23,2024-2025
+Orlando Pirates,Mamelodi Sundowns,2,1,FINISHED,16/03/2025,1557272,Matchday 23,2024-2025
+Sekhukhune United,Stellenbosch,1,2,FINISHED,16/03/2025,1557284,Matchday 23,2024-2025
+Stellenbosch,Magesi,2,1,FINISHED,25/02/2025,1557280,Matchday 24,2024-2025
+Sekhukhune United,Mamelodi Sundowns,2,4,FINISHED,26/02/2025,1557281,Matchday 24,2024-2025
+Golden Arrows,Kaizer Chiefs,2,1,FINISHED,29/03/2025,1557278,Matchday 24,2024-2025
+Chippa United FC,AmaZulu FC,2,1,FINISHED,29/03/2025,1557283,Matchday 24,2024-2025
+Orlando Pirates,Royal AM,,,UPCOMING,29/03/2025,1557282,Matchday 24,2024-2025
+Polokwane City,Richards Bay,3,1,FINISHED,30/03/2025,1557279,Matchday 24,2024-2025
+TS Galaxy,Marumo Gallants,1,2,FINISHED,30/03/2025,1557276,Matchday 24,2024-2025
+Siwelele FC,Cape Town City,0,0,FINISHED,30/03/2025,1557277,Matchday 24,2024-2025
+AmaZulu FC,Richards Bay,1,0,FINISHED,04/04/2025,1557275,Matchday 25,2024-2025
+Polokwane City,Orlando Pirates,0,1,FINISHED,05/04/2025,1557269,Matchday 25,2024-2025
+Golden Arrows,Chippa United FC,0,0,FINISHED,05/04/2025,1557288,Matchday 25,2024-2025
+Marumo Gallants,Siwelele FC,1,1,FINISHED,05/04/2025,1557273,Matchday 25,2024-2025
+Kaizer Chiefs,TS Galaxy,1,1,FINISHED,05/04/2025,1557287,Matchday 25,2024-2025
+Royal AM,Magesi,,,UPCOMING,05/04/2025,1557270,Matchday 25,2024-2025
+Cape Town City,Sekhukhune United,1,2,FINISHED,06/04/2025,1557268,Matchday 25,2024-2025
+Mamelodi Sundowns,Stellenbosch,3,0,FINISHED,11/05/2025,1557271,Matchday 25,2024-2025
+Stellenbosch,AmaZulu FC,1,0,FINISHED,15/04/2025,1557262,Matchday 26,2024-2025
+Royal AM,Mamelodi Sundowns,,,UPCOMING,18/04/2025,1557267,Matchday 26,2024-2025
+Richards Bay,Cape Town City,1,0,FINISHED,18/04/2025,1557266,Matchday 26,2024-2025
+Marumo Gallants,Golden Arrows,1,1,FINISHED,19/04/2025,1557265,Matchday 26,2024-2025
+Chippa United FC,Kaizer Chiefs,0,0,FINISHED,19/04/2025,1557264,Matchday 26,2024-2025
+Sekhukhune United,Polokwane City,2,0,FINISHED,19/04/2025,1557263,Matchday 26,2024-2025
+Magesi,TS Galaxy,2,1,FINISHED,20/04/2025,1557261,Matchday 26,2024-2025
+Siwelele FC,Orlando Pirates,0,1,FINISHED,20/05/2025,1557260,Matchday 26,2024-2025
+Kaizer Chiefs,Marumo Gallants,1,2,FINISHED,26/04/2025,1557274,Matchday 27,2024-2025
+Golden Arrows,AmaZulu FC,0,1,FINISHED,26/04/2025,1557313,Matchday 27,2024-2025
+Polokwane City,Siwelele FC,1,1,FINISHED,26/04/2025,1557302,Matchday 27,2024-2025
+Cape Town City,Royal AM,,,UPCOMING,26/04/2025,1557316,Matchday 27,2024-2025
+TS Galaxy,Sekhukhune United,1,1,FINISHED,27/04/2025,1557312,Matchday 27,2024-2025
+Mamelodi Sundowns,Richards Bay,3,0,FINISHED,30/04/2025,1557315,Matchday 27,2024-2025
+Stellenbosch,Chippa United FC,1,0,FINISHED,30/04/2025,1557154,Matchday 27,2024-2025
+Orlando Pirates,Magesi,1,1,FINISHED,28/05/2025,1557259,Matchday 27,2024-2025
+Royal AM,Marumo Gallants,,,UPCOMING,02/05/2025,1557311,Matchday 28,2024-2025
+AmaZulu FC,Polokwane City,1,1,FINISHED,02/05/2025,1557310,Matchday 28,2024-2025
+Golden Arrows,Stellenbosch,0,3,FINISHED,03/05/2025,1557305,Matchday 28,2024-2025
+Kaizer Chiefs,Orlando Pirates,1,2,FINISHED,03/05/2025,1557309,Matchday 28,2024-2025
+Magesi,Sekhukhune United,1,1,FINISHED,03/05/2025,1557307,Matchday 28,2024-2025
+Siwelele FC,Chippa United FC,2,0,FINISHED,03/05/2025,1557308,Matchday 28,2024-2025
+Cape Town City,Mamelodi Sundowns,0,2,FINISHED,03/05/2025,1557286,Matchday 28,2024-2025
+TS Galaxy,Richards Bay,0,1,FINISHED,04/05/2025,1557306,Matchday 28,2024-2025
+Polokwane City,Cape Town City,0,2,FINISHED,17/05/2025,1557299,Matchday 29,2024-2025
+Richards Bay,Golden Arrows,0,0,FINISHED,17/05/2025,1557298,Matchday 29,2024-2025
+Marumo Gallants,Chippa United FC,1,1,FINISHED,17/05/2025,1557301,Matchday 29,2024-2025
+Sekhukhune United,Kaizer Chiefs,1,1,FINISHED,17/05/2025,1557377,Matchday 29,2024-2025
+Orlando Pirates,TS Galaxy,1,1,FINISHED,17/05/2025,1557300,Matchday 29,2024-2025
+Stellenbosch,Siwelele FC,2,1,FINISHED,17/05/2025,1557297,Matchday 29,2024-2025
+Royal AM,AmaZulu FC,,,UPCOMING,17/05/2025,1557303,Matchday 29,2024-2025
+Mamelodi Sundowns,Magesi,2,0,FINISHED,18/05/2025,1557296,Matchday 29,2024-2025
+Chippa United FC,Mamelodi Sundowns,0,3,FINISHED,14/05/2025,1557292,Matchday 30,2024-2025
+AmaZulu FC,Orlando Pirates,1,1,FINISHED,24/05/2025,1557304,Matchday 30,2024-2025
+Siwelele FC,Richards Bay,0,2,FINISHED,24/05/2025,1557289,Matchday 30,2024-2025
+Cape Town City,Stellenbosch,0,0,FINISHED,24/05/2025,1557294,Matchday 30,2024-2025
+Golden Arrows,Sekhukhune United,3,2,FINISHED,24/05/2025,1557295,Matchday 30,2024-2025
+Kaizer Chiefs,Polokwane City,0,0,FINISHED,24/05/2025,1557291,Matchday 30,2024-2025
+Magesi,Marumo Gallants,1,1,FINISHED,24/05/2025,1557290,Matchday 30,2024-2025
+TS Galaxy,Royal AM,,,UPCOMING,24/05/2025,1557293,Matchday 30,2024-2025

@@ -1,0 +1,243 @@
+date,season,matchday,home_team,away_team,home_score,away_score,actual_result,predicted_result,correct
+2025-08-31,2025-2026,Matchday 5,Marumo Gallants,Polokwane City,1.0,1.0,D,H,False
+2025-08-31,2025-2026,Matchday 5,Chippa United,Orlando Pirates,0.0,3.0,A,A,True
+2025-09-14,2025-2026,Matchday 16,Mamelodi Sundowns,Magesi,3.0,0.0,H,H,True
+2025-09-16,2025-2026,Matchday 6,Chippa United,Orbit College,2.0,1.0,H,D,False
+2025-09-16,2025-2026,Matchday 6,Durban City,Siwelele,2.0,0.0,H,D,False
+2025-09-16,2025-2026,Matchday 6,Kaizer Chiefs,Sekhukhune United,1.0,3.0,A,H,False
+2025-09-17,2025-2026,Matchday 6,Marumo Gallants,Mamelodi Sundowns,1.0,1.0,D,A,False
+2025-09-17,2025-2026,Matchday 6,AmaZulu,Stellenbosch,2.0,1.0,H,D,False
+2025-09-17,2025-2026,Matchday 6,Polokwane City,Golden Arrows,2.0,1.0,H,H,True
+2025-09-17,2025-2026,Matchday 6,Richards Bay,TS Galaxy,1.0,1.0,D,H,False
+2025-09-20,2025-2026,Matchday 7,Mamelodi Sundowns,Durban City,3.0,1.0,H,H,True
+2025-09-20,2025-2026,Matchday 7,Orbit College,Marumo Gallants,1.0,1.0,D,D,True
+2025-09-20,2025-2026,Matchday 7,Magesi,Siwelele,2.0,0.0,H,H,True
+2025-09-20,2025-2026,Matchday 7,Stellenbosch,Richards Bay,0.0,1.0,A,H,False
+2025-09-20,2025-2026,Matchday 7,Sekhukhune United,Golden Arrows,1.0,0.0,H,H,True
+2025-09-21,2025-2026,Matchday 7,Polokwane City,Chippa United,2.0,1.0,H,H,True
+2025-09-23,2025-2026,Matchday 8,Siwelele,Orlando Pirates,0.0,1.0,A,A,True
+2025-09-24,2025-2026,Matchday 8,Orbit College,Polokwane City,1.0,0.0,H,A,False
+2025-09-24,2025-2026,Matchday 8,Golden Arrows,Mamelodi Sundowns,1.0,0.0,H,A,False
+2025-09-24,2025-2026,Matchday 8,Sekhukhune United,Chippa United,1.0,1.0,D,H,False
+2025-09-24,2025-2026,Matchday 8,TS Galaxy,AmaZulu,3.0,1.0,H,D,False
+2025-09-24,2025-2026,Matchday 8,Stellenbosch,Durban City,0.0,0.0,D,H,False
+2025-09-24,2025-2026,Matchday 8,Kaizer Chiefs,Marumo Gallants,1.0,1.0,D,D,True
+2025-09-24,2025-2026,Matchday 8,Richards Bay,Magesi,1.0,0.0,H,H,True
+2025-09-27,2025-2026,Matchday 9,Golden Arrows,Orbit College,3.0,0.0,H,H,True
+2025-09-27,2025-2026,Matchday 9,Polokwane City,Sekhukhune United,1.0,0.0,H,A,False
+2025-09-27,2025-2026,Matchday 9,Mamelodi Sundowns,Richards Bay,4.0,1.0,H,H,True
+2025-09-27,2025-2026,Matchday 9,Durban City,Magesi,3.0,1.0,H,H,True
+2025-09-28,2025-2026,Matchday 9,Siwelele,Marumo Gallants,1.0,0.0,H,A,False
+2025-09-28,2025-2026,Matchday 9,Chippa United,Stellenbosch,0.0,0.0,D,D,True
+2025-09-30,2025-2026,Matchday 9,Orlando Pirates,TS Galaxy,2.0,0.0,H,H,True
+2025-10-01,2025-2026,Matchday 9,Kaizer Chiefs,AmaZulu,1.0,1.0,D,H,False
+2025-10-17,2025-2026,Matchday 10,Richards Bay,Orbit College,1.0,2.0,A,H,False
+2025-10-18,2025-2026,Matchday 10,AmaZulu,Durban City,1.0,0.0,H,H,True
+2025-10-18,2025-2026,Matchday 10,Magesi,TS Galaxy,2.0,1.0,H,A,False
+2025-10-19,2025-2026,Matchday 10,Marumo Gallants,Chippa United,2.0,1.0,H,H,True
+2025-10-22,2025-2026,Matchday 10,Orlando Pirates,Polokwane City,1.0,0.0,H,H,True
+2025-10-22,2025-2026,Matchday 10,Kaizer Chiefs,Siwelele,0.0,0.0,D,H,False
+2025-10-22,2025-2026,Matchday 10,Stellenbosch,Golden Arrows,4.0,3.0,H,A,False
+2025-10-31,2025-2026,Matchday 11,Siwelele,Sekhukhune United,1.0,0.0,H,A,False
+2025-10-31,2025-2026,Matchday 11,Durban City,Kaizer Chiefs,0.0,1.0,A,H,False
+2025-11-01,2025-2026,Matchday 11,Chippa United,AmaZulu,0.0,3.0,A,D,False
+2025-11-01,2025-2026,Matchday 11,Polokwane City,Richards Bay,1.0,1.0,D,H,False
+2025-11-01,2025-2026,Matchday 11,Mamelodi Sundowns,Orlando Pirates,1.0,1.0,D,H,False
+2025-11-01,2025-2026,Matchday 11,Orbit College,Magesi,3.0,1.0,H,D,False
+2025-11-02,2025-2026,Matchday 11,TS Galaxy,Stellenbosch,2.0,0.0,H,H,True
+2025-11-02,2025-2026,Matchday 11,Golden Arrows,Marumo Gallants,4.0,0.0,H,H,True
+2025-11-04,2025-2026,Matchday 12,Chippa United,Magesi,0.0,0.0,D,H,False
+2025-11-04,2025-2026,Matchday 12,Sekhukhune United,Richards Bay,1.0,1.0,D,H,False
+2025-11-04,2025-2026,Matchday 12,AmaZulu,Polokwane City,0.0,1.0,A,H,False
+2025-11-04,2025-2026,Matchday 12,Kaizer Chiefs,Orbit College,4.0,1.0,H,H,True
+2025-11-05,2025-2026,Matchday 12,Stellenbosch,Siwelele,0.0,2.0,A,H,False
+2025-11-05,2025-2026,Matchday 12,Durban City,Marumo Gallants,1.0,0.0,H,H,True
+2025-11-05,2025-2026,Matchday 12,Mamelodi Sundowns,TS Galaxy,1.0,0.0,H,H,True
+2025-11-05,2025-2026,Matchday 12,Golden Arrows,Orlando Pirates,1.0,3.0,A,H,False
+2025-11-22,2025-2026,Matchday 13,AmaZulu,Siwelele,2.0,0.0,H,H,True
+2025-11-22,2025-2026,Matchday 13,Marumo Gallants,Sekhukhune United,1.0,1.0,D,D,True
+2025-11-23,2025-2026,Matchday 13,TS Galaxy,Golden Arrows,2.0,1.0,H,H,True
+2025-11-23,2025-2026,Matchday 13,Richards Bay,Durban City,0.0,0.0,D,H,False
+2025-11-25,2025-2026,Matchday 13,Orlando Pirates,Chippa United,2.0,0.0,H,H,True
+2025-11-26,2025-2026,Matchday 13,Orbit College,Stellenbosch,1.0,2.0,A,D,False
+2025-11-28,2025-2026,Matchday 14,Richards Bay,AmaZulu,2.0,0.0,H,A,False
+2025-11-29,2025-2026,Matchday 14,Durban City,Orlando Pirates,0.0,2.0,A,A,True
+2025-11-29,2025-2026,Matchday 14,Siwelele,Chippa United,0.0,0.0,D,D,True
+2025-11-29,2025-2026,Matchday 14,Polokwane City,TS Galaxy,0.0,0.0,D,H,False
+2025-11-30,2025-2026,Matchday 14,Marumo Gallants,Magesi,1.0,1.0,D,D,True
+2025-12-02,2025-2026,Matchday 15,Golden Arrows,AmaZulu,0.0,1.0,A,H,False
+2025-12-03,2025-2026,Matchday 15,Siwelele,Mamelodi Sundowns,1.0,1.0,D,A,False
+2025-12-03,2025-2026,Matchday 15,Stellenbosch,Polokwane City,1.0,2.0,A,D,False
+2025-12-03,2025-2026,Matchday 15,Orbit College,Durban City,0.0,3.0,A,D,False
+2025-12-03,2025-2026,Matchday 15,Chippa United,Kaizer Chiefs,0.0,0.0,D,A,False
+2025-12-03,2025-2026,Matchday 15,Magesi,Sekhukhune United,0.0,1.0,A,D,False
+2025-12-07,2025-2026,Matchday 7,TS Galaxy,Kaizer Chiefs,0.0,0.0,D,H,False
+2026-01-19,2025-2026,Matchday 14,Mamelodi Sundowns,Orbit College,2.0,0.0,H,H,True
+2026-01-20,2025-2026,Matchday 14,Sekhukhune United,Stellenbosch,0.0,1.0,A,H,False
+2026-01-20,2025-2026,Matchday 14,Kaizer Chiefs,Golden Arrows,1.0,0.0,H,H,True
+2026-01-21,2025-2026,Matchday 15,TS Galaxy,Marumo Gallants,2.0,0.0,H,H,True
+2026-01-23,2025-2026,Matchday 16,Richards Bay,Siwelele,1.0,1.0,D,H,False
+2026-01-24,2025-2026,Matchday 16,Sekhukhune United,Orlando Pirates,0.0,0.0,D,A,False
+2026-01-24,2025-2026,Matchday 16,Orbit College,Chippa United,0.0,1.0,A,H,False
+2026-01-25,2025-2026,Matchday 16,Durban City,Polokwane City,1.0,0.0,H,H,True
+2026-01-25,2025-2026,Matchday 16,AmaZulu,TS Galaxy,3.0,2.0,H,H,True
+2026-01-27,2025-2026,Matchday 10,Sekhukhune United,Mamelodi Sundowns,0.0,2.0,A,A,True
+2026-01-28,2025-2026,Matchday 16,Marumo Gallants,Kaizer Chiefs,0.0,1.0,A,A,True
+2026-01-30,2025-2026,Matchday 17,Richards Bay,Golden Arrows,2.0,2.0,D,H,False
+2026-01-31,2025-2026,Matchday 17,Polokwane City,Orbit College,2.0,2.0,D,H,False
+2026-01-31,2025-2026,Matchday 17,Chippa United,Durban City,2.0,0.0,H,D,False
+2026-01-31,2025-2026,Matchday 17,Marumo Gallants,AmaZulu,0.0,1.0,A,A,True
+2026-01-31,2025-2026,Matchday 6,Orlando Pirates,Magesi,2.0,0.0,H,H,True
+2026-02-01,2025-2026,Matchday 17,TS Galaxy,Sekhukhune United,0.0,1.0,A,H,False
+2026-02-03,2025-2026,Matchday 7,AmaZulu,Orlando Pirates,0.0,2.0,A,D,False
+2026-02-13,2025-2026,Matchday 18,Magesi,Golden Arrows,0.0,2.0,A,A,True
+2026-02-13,2025-2026,Matchday 18,Durban City,TS Galaxy,2.0,0.0,H,H,True
+2026-02-14,2025-2026,Matchday 18,Orlando Pirates,Marumo Gallants,3.0,0.0,H,H,True
+2026-02-14,2025-2026,Matchday 18,Polokwane City,Siwelele,0.0,0.0,D,H,False
+2026-02-14,2025-2026,Matchday 18,Chippa United,Richards Bay,3.0,0.0,H,D,False
+2026-02-15,2025-2026,Matchday 18,Sekhukhune United,Orbit College,2.0,0.0,H,D,False
+2026-02-18,2025-2026,Matchday 17,Orlando Pirates,Mamelodi Sundowns,1.0,2.0,A,H,False
+2026-02-18,2025-2026,Matchday 17,Stellenbosch,Magesi,1.0,1.0,D,D,True
+2026-02-24,2025-2026,Matchday 18,Kaizer Chiefs,Stellenbosch,1.0,2.0,A,H,False
+2026-02-24,2025-2026,Matchday 18,AmaZulu,Mamelodi Sundowns,0.0,1.0,A,H,False
+2026-02-27,2025-2026,Matchday 19,Magesi,Polokwane City,0.0,2.0,A,A,True
+2026-02-27,2025-2026,Matchday 19,Stellenbosch,AmaZulu,1.0,0.0,H,D,False
+2026-02-28,2025-2026,Matchday 19,Golden Arrows,Chippa United,0.0,0.0,D,H,False
+2026-02-28,2025-2026,Matchday 19,Orbit College,Richards Bay,0.0,0.0,D,A,False
+2026-02-28,2025-2026,Matchday 19,Kaizer Chiefs,Orlando Pirates,0.0,3.0,A,A,True
+2026-02-28,2025-2026,Matchday 19,Siwelele,TS Galaxy,1.0,0.0,H,H,True
+2026-03-01,2025-2026,Matchday 19,Marumo Gallants,Durban City,0.0,1.0,A,A,True
+2026-03-01,2025-2026,Matchday 19,Mamelodi Sundowns,Sekhukhune United,3.0,1.0,H,H,True
+2026-03-03,2025-2026,Matchday 20,Richards Bay,Kaizer Chiefs,1.0,0.0,H,D,False
+2026-03-03,2025-2026,Matchday 20,Siwelele,Stellenbosch,0.0,0.0,D,H,False
+2026-03-03,2025-2026,Matchday 20,TS Galaxy,Orbit College,1.0,2.0,A,H,False
+2026-03-04,2025-2026,Matchday 20,AmaZulu,Magesi,0.0,0.0,D,H,False
+2026-03-04,2025-2026,Matchday 20,Durban City,Sekhukhune United,1.0,1.0,D,H,False
+2026-03-04,2025-2026,Matchday 20,Polokwane City,Orlando Pirates,1.0,2.0,A,A,True
+2026-03-04,2025-2026,Matchday 20,Chippa United,Marumo Gallants,1.0,3.0,A,H,False
+2026-03-04,2025-2026,Matchday 20,Mamelodi Sundowns,Golden Arrows,2.0,1.0,H,H,True
+2026-03-10,2025-2026,Matchday 21,Orbit College,Mamelodi Sundowns,0.0,2.0,A,A,True
+2026-03-11,2025-2026,Matchday 15,Orlando Pirates,Richards Bay,2.0,0.0,H,H,True
+2026-03-13,2025-2026,Matchday 21,Stellenbosch,TS Galaxy,1.0,1.0,D,H,False
+2026-03-14,2025-2026,Matchday 21,Sekhukhune United,Polokwane City,0.0,0.0,D,H,False
+2026-03-14,2025-2026,Matchday 21,Magesi,Chippa United,2.0,2.0,D,A,False
+2026-03-14,2025-2026,Matchday 21,Marumo Gallants,Golden Arrows,1.0,2.0,A,H,False
+2026-03-14,2025-2026,Matchday 21,AmaZulu,Richards Bay,2.0,1.0,H,H,True
+2026-03-14,2025-2026,Matchday 21,Orlando Pirates,Siwelele,1.0,1.0,D,H,False
+2026-03-15,2025-2026,Matchday 21,Kaizer Chiefs,Durban City,1.0,0.0,H,H,True
+2026-03-17,2025-2026,Matchday 22,Mamelodi Sundowns,Marumo Gallants,3.0,1.0,H,H,True
+2026-03-18,2025-2026,Matchday 16,Golden Arrows,Stellenbosch,1.0,1.0,D,H,False
+2026-03-21,2025-2026,Matchday 22,Kaizer Chiefs,Magesi,2.0,0.0,H,H,True
+2026-03-21,2025-2026,Matchday 22,Stellenbosch,Chippa United,2.0,1.0,H,H,True
+2026-03-21,2025-2026,Matchday 22,Polokwane City,AmaZulu,0.0,1.0,A,H,False
+2026-03-22,2025-2026,Matchday 22,Durban City,Richards Bay,1.0,0.0,H,H,True
+2026-03-22,2025-2026,Matchday 22,TS Galaxy,Orlando Pirates,0.0,6.0,A,A,True
+2026-03-22,2025-2026,Matchday 22,Siwelele,Orbit College,1.0,0.0,H,H,True
+2026-03-22,2025-2026,Matchday 22,Golden Arrows,Sekhukhune United,1.0,0.0,H,D,False
+2026-04-03,2025-2026,Matchday 25,Mamelodi Sundowns,Chippa United,4.0,1.0,H,H,True
+2026-04-06,2025-2026,Matchday 23,Orbit College,Kaizer Chiefs,1.0,3.0,A,D,False
+2026-04-06,2025-2026,Matchday 23,AmaZulu,Sekhukhune United,2.0,2.0,D,H,False
+2026-04-07,2025-2026,Matchday 23,Richards Bay,Stellenbosch,2.0,1.0,H,A,False
+2026-04-07,2025-2026,Matchday 23,Orlando Pirates,Golden Arrows,5.0,0.0,H,H,True
+2026-04-07,2025-2026,Matchday 23,Chippa United,Siwelele,1.0,0.0,H,A,False
+2026-04-07,2025-2026,Matchday 23,Magesi,Marumo Gallants,3.0,0.0,H,H,True
+2026-04-07,2025-2026,Matchday 23,Durban City,Mamelodi Sundowns,0.0,1.0,A,A,True
+2026-04-08,2025-2026,Matchday 23,TS Galaxy,Polokwane City,1.0,2.0,A,A,True
+2026-04-10,2025-2026,Matchday 24,Richards Bay,Orlando Pirates,2.0,2.0,D,A,False
+2026-04-11,2025-2026,Matchday 24,Chippa United,Polokwane City,1.0,1.0,D,H,False
+2026-04-11,2025-2026,Matchday 24,Sekhukhune United,Magesi,1.0,0.0,H,H,True
+2026-04-11,2025-2026,Matchday 24,Siwelele,AmaZulu,1.0,1.0,D,D,True
+2026-04-11,2025-2026,Matchday 24,Golden Arrows,Durban City,1.0,0.0,H,D,False
+2026-04-12,2025-2026,Matchday 24,Kaizer Chiefs,TS Galaxy,2.0,0.0,H,H,True
+2026-04-12,2025-2026,Matchday 24,Marumo Gallants,Orbit College,0.0,0.0,D,D,True
+2026-04-15,2025-2026,Matchday 13,Magesi,Kaizer Chiefs,1.0,4.0,A,A,True
+2026-04-17,2025-2026,Matchday 25,Stellenbosch,Sekhukhune United,3.0,1.0,H,H,True
+2026-04-18,2025-2026,Matchday 25,Orbit College,Golden Arrows,1.0,2.0,A,D,False
+2026-04-18,2025-2026,Matchday 25,Marumo Gallants,Siwelele,0.0,0.0,D,D,True
+2026-04-18,2025-2026,Matchday 25,Orlando Pirates,AmaZulu,3.0,0.0,H,H,True
+2026-04-18,2025-2026,Matchday 25,Polokwane City,Kaizer Chiefs,0.0,0.0,D,A,False
+2026-04-19,2025-2026,Matchday 25,TS Galaxy,Richards Bay,0.0,1.0,A,D,False
+2026-04-19,2025-2026,Matchday 25,Magesi,Durban City,5.0,2.0,H,D,False
+2026-04-22,2025-2026,Matchday 24,Mamelodi Sundowns,Stellenbosch,1.0,1.0,D,H,False
+2026-04-24,2025-2026,Matchday 26,Golden Arrows,Siwelele,0.0,0.0,D,H,False
+2026-04-24,2025-2026,Matchday 26,Durban City,Orbit College,1.0,1.0,D,H,False
+2026-04-25,2025-2026,Matchday 26,AmaZulu,Chippa United,5.0,1.0,H,D,False
+2026-04-25,2025-2026,Matchday 26,Sekhukhune United,Marumo Gallants,1.0,1.0,D,H,False
+2026-04-26,2025-2026,Matchday 26,Richards Bay,Mamelodi Sundowns,0.0,0.0,D,A,False
+2026-04-26,2025-2026,Matchday 26,Orlando Pirates,Kaizer Chiefs,1.0,1.0,D,H,False
+2026-04-26,2025-2026,Matchday 26,Polokwane City,Stellenbosch,1.0,0.0,H,A,False
+2026-04-26,2025-2026,Matchday 26,TS Galaxy,Magesi,0.0,0.0,D,D,True
+2026-04-29,2025-2026,Matchday 13,Polokwane City,Mamelodi Sundowns,0.0,1.0,A,A,True
+2026-04-29,2025-2026,Matchday 17,Siwelele,Kaizer Chiefs,2.0,0.0,H,H,True
+2026-05-03,2025-2026,Matchday 30,Mamelodi Sundowns,Polokwane City,3.0,0.0,H,H,True
+2026-05-05,2025-2026,Matchday 27,Stellenbosch,Orlando Pirates,0.0,2.0,A,A,True
+2026-05-05,2025-2026,Matchday 27,Siwelele,Durban City,2.0,2.0,D,H,False
+2026-05-05,2025-2026,Matchday 27,Magesi,Orbit College,1.0,2.0,A,H,False
+2026-05-06,2025-2026,Matchday 27,Chippa United,Sekhukhune United,1.0,3.0,A,D,False
+2026-05-06,2025-2026,Matchday 27,Mamelodi Sundowns,Kaizer Chiefs,1.0,1.0,D,H,False
+2026-05-06,2025-2026,Matchday 27,AmaZulu,Golden Arrows,1.0,1.0,D,D,True
+2026-05-06,2025-2026,Matchday 27,Richards Bay,Polokwane City,0.0,0.0,D,D,True
+2026-05-06,2025-2026,Matchday 27,Marumo Gallants,TS Galaxy,1.0,1.0,D,H,False
+2026-05-08,2025-2026,Matchday 28,Durban City,Stellenbosch,0.0,0.0,D,A,False
+2026-05-09,2025-2026,Matchday 28,Marumo Gallants,Richards Bay,1.0,1.0,D,H,False
+2026-05-09,2025-2026,Matchday 28,Golden Arrows,Polokwane City,0.0,0.0,D,H,False
+2026-05-09,2025-2026,Matchday 28,TS Galaxy,Chippa United,1.0,1.0,D,D,True
+2026-05-09,2025-2026,Matchday 28,Mamelodi Sundowns,Siwelele,7.0,4.0,H,H,True
+2026-05-09,2025-2026,Matchday 28,Orbit College,AmaZulu,0.0,0.0,D,D,True
+2026-05-09,2025-2026,Matchday 28,Magesi,Orlando Pirates,0.0,3.0,A,A,True
+2026-05-10,2025-2026,Matchday 28,Sekhukhune United,Kaizer Chiefs,0.0,2.0,A,D,False
+2026-05-12,2025-2026,Matchday 29,TS Galaxy,Mamelodi Sundowns,3.0,2.0,H,A,False
+2026-05-16,2025-2026,Matchday 29,Siwelele,Magesi,1.0,0.0,H,H,True
+2026-05-16,2025-2026,Matchday 29,Orlando Pirates,Durban City,0.0,0.0,D,H,False
+2026-05-16,2025-2026,Matchday 29,AmaZulu,Kaizer Chiefs,0.0,1.0,A,A,True
+2026-05-16,2025-2026,Matchday 29,Polokwane City,Marumo Gallants,1.0,1.0,D,H,False
+2026-05-16,2025-2026,Matchday 29,Richards Bay,Sekhukhune United,1.0,1.0,D,H,False
+2026-05-16,2025-2026,Matchday 29,Chippa United,Golden Arrows,0.0,2.0,A,D,False
+2026-05-16,2025-2026,Matchday 29,Stellenbosch,Orbit College,2.0,0.0,H,H,True
+2026-05-23,2025-2026,Matchday 30,Magesi,Richards Bay,1.0,0.0,H,H,True
+2026-05-23,2025-2026,Matchday 30,Durban City,AmaZulu,0.0,1.0,A,A,True
+2026-05-23,2025-2026,Matchday 30,Kaizer Chiefs,Chippa United,0.0,1.0,A,H,False
+2026-05-23,2025-2026,Matchday 30,Golden Arrows,TS Galaxy,0.0,0.0,D,H,False
+2026-05-23,2025-2026,Matchday 30,Orbit College,Orlando Pirates,0.0,2.0,A,A,True
+2026-05-23,2025-2026,Matchday 30,Marumo Gallants,Stellenbosch,0.0,0.0,D,H,False
+2026-05-23,2025-2026,Matchday 30,Sekhukhune United,Siwelele,2.0,2.0,D,H,False
+2026-08-01,2026-2027,Matchday 1,Stellenbosch,AmaZulu,0.0,1.0,A,H,False
+2026-08-01,2026-2027,Matchday 1,Golden Arrows,Chippa United,0.0,0.0,D,H,False
+2026-08-01,2026-2027,Matchday 1,Sekhukhune United,Durban City,1.0,0.0,H,H,True
+2026-08-02,2026-2027,Matchday 1,Richards Bay,Polokwane City,1.0,2.0,A,H,False
+2026-08-02,2026-2027,Matchday 1,Siwelele,TS Galaxy,2.0,2.0,D,H,False
+2026-08-11,2026-2027,Matchday 2,Polokwane City,Stellenbosch,3.0,3.0,D,H,False
+2026-08-11,2026-2027,Matchday 2,Marumo Gallants,Kruger United,0.0,0.0,D,H,False
+2026-08-11,2026-2027,Matchday 2,TS Galaxy,Mamelodi Sundowns,2.0,3.0,A,A,True
+2026-08-11,2026-2027,Matchday 2,Chippa United,Richards Bay,1.0,1.0,D,D,True
+2026-08-12,2026-2027,Matchday 2,Milford FC,Siwelele,1.0,0.0,H,D,False
+2026-08-12,2026-2027,Matchday 2,Durban City,Golden Arrows,0.0,0.0,D,A,False
+2026-08-12,2026-2027,Matchday 2,AmaZulu,Orlando Pirates,1.0,1.0,D,A,False
+2026-08-12,2026-2027,Matchday 2,Kaizer Chiefs,Sekhukhune United,2.0,0.0,H,H,True
+2026-08-14,2026-2027,Matchday 3,Stellenbosch,Marumo Gallants,3.0,1.0,H,H,True
+2026-08-15,2026-2027,Matchday 3,Milford FC,Kruger United,2.0,1.0,H,H,True
+2026-08-15,2026-2027,Matchday 3,Sekhukhune United,Polokwane City,2.0,0.0,H,H,True
+2026-08-15,2026-2027,Matchday 3,Durban City,Richards Bay,1.0,1.0,D,A,False
+2026-08-15,2026-2027,Matchday 3,Kaizer Chiefs,Mamelodi Sundowns,1.0,1.0,D,H,False
+2026-08-15,2026-2027,Matchday 3,AmaZulu,Siwelele,2.0,0.0,H,H,True
+2026-08-16,2026-2027,Matchday 3,Chippa United,Orlando Pirates,0.0,3.0,A,A,True
+2026-08-16,2026-2027,Matchday 3,TS Galaxy,Golden Arrows,0.0,0.0,D,D,True
+2026-08-19,2026-2027,Matchday 1,Mamelodi Sundowns,Marumo Gallants,2.0,0.0,H,H,True
+2026-08-25,2026-2027,Matchday 4,Orlando Pirates,Sekhukhune United,2.0,0.0,H,H,True
+2026-08-25,2026-2027,Matchday 4,Siwelele,Chippa United,1.0,1.0,D,H,False
+2026-08-25,2026-2027,Matchday 4,Kruger United,Durban City,0.0,2.0,A,D,False
+2026-08-25,2026-2027,Matchday 4,Marumo Gallants,TS Galaxy,2.0,3.0,A,H,False
+2026-08-26,2026-2027,Matchday 4,Mamelodi Sundowns,AmaZulu,5.0,2.0,H,H,True
+2026-08-26,2026-2027,Matchday 4,Richards Bay,Kaizer Chiefs,2.0,2.0,D,A,False
+2026-08-26,2026-2027,Matchday 4,Polokwane City,Milford FC,0.0,0.0,D,H,False
+2026-08-26,2026-2027,Matchday 4,Golden Arrows,Stellenbosch,1.0,0.0,H,H,True
+2026-09-01,2026-2027,Matchday 5,Kruger United,Orlando Pirates,0.0,4.0,A,A,True
+2026-09-01,2026-2027,Matchday 5,Durban City,Stellenbosch,0.0,0.0,D,H,False
+2026-09-02,2026-2027,Matchday 10,Mamelodi Sundowns,Milford FC,2.0,0.0,H,H,True
+2026-09-04,2026-2027,Matchday 5,Richards Bay,AmaZulu,1.0,2.0,A,H,False
+2026-09-04,2026-2027,Matchday 5,Marumo Gallants,Polokwane City,2.0,2.0,D,A,False
+2026-09-05,2026-2027,Matchday 5,Chippa United,Milford FC,0.0,0.0,D,H,False
+2026-09-05,2026-2027,Matchday 5,Sekhukhune United,TS Galaxy,0.0,0.0,D,H,False
+2026-09-06,2026-2027,Matchday 5,Kaizer Chiefs,Siwelele,3.0,2.0,H,H,True
+2026-09-06,2026-2027,Matchday 5,Golden Arrows,Mamelodi Sundowns,1.0,2.0,A,A,True
+2026-09-09,2026-2027,Matchday 7,Mamelodi Sundowns,Siwelele,3.0,0.0,H,H,True
