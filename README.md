@@ -30,7 +30,8 @@ sa_football_analysis/
 │   ├── scrape_matches.py
 │   ├── squad_values.py
 │   └── teams.py            
-├── powerbi/            
+├── powerbi/  
+├── .gitignore         
 └── README.md
 ```
 
@@ -102,7 +103,7 @@ The second page focuses on the machine-learning component:
 - Prediction classes
 - Number of predictions 
 - Correct predictions 
-- Model accuracy across iteration
+- Model accuracy across iterations
 - Prediction accuracy by result 
 - Actual vs predicted results 
 - Sample match predictions 
