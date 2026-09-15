@@ -1,18 +1,9 @@
 """
-Squad market values — manually collected, not scraped.
-
-Source: Transfermarkt (transfermarkt.co.za), read manually in a browser
-rather than fetched programmatically. Each club's page shows squad size,
-average age, and total market value directly (no summing required) —
-search "<team name> transfermarkt kader" and read the info box near the
-top of the squad page.
-
-Values reflect Transfermarkt's *current* squad snapshot, not a
-season-specific historical value — the same squad_market_value_eur is
-used across all seasons in matches_multi_season.csv as a rough "current
-squad strength" proxy. This is a known simplification: a team's actual
-squad value in 2021-22 likely differed from today's. Worth noting as a
-limitation in any write-up using this feature.
+Squad market values (manually collected, not scraped)
+- Source: Transfermarkt (transfermarkt.co.za) read manually 
+- Each club's page shows squad size average age, and total market value directly 
+- Values reflect Transfermarkt's current (2026-27) squad snapshot, not a season-specific historical value 
+- The same squad_market_value_eur is used across all seasons in matches_multi_season.csv as a rough "current squad strength" proxy
 """
 
 import pandas as pd

@@ -1,27 +1,22 @@
 """
-Team reference table for the Betway Premiership.
-
-Source: Wikipedia season pages (stadiums table). Update each season as
-teams change via promotion/relegation. Latitude/longitude are geocoded
-manually/once — see geocode_stadiums() below to fill them in.
+Team reference table for the Betway Premiership
+- Source: Wikipedia season pages (stadiums table)
+- Latitude/longitude are geocoded manually
 """
 
 import os
 import pandas as pd
 
-# macOS Python.org/Homebrew builds don't always use the system cert store,
-# which makes HTTPS requests (e.g. to Nominatim) fail with
-# SSLCertVerificationError. Point requests/geopy at certifi's bundle so this
-# works regardless of how the script is run (terminal or an IDE's run button).
+# Point requests/geopy at certifi's bundle
 try:
     import certifi
     os.environ.setdefault("SSL_CERT_FILE", certifi.where())
     os.environ.setdefault("REQUESTS_CA_BUNDLE", certifi.where())
 except ImportError:
-    pass  # certifi not installed — geocode_stadiums() will surface the real error
+    pass 
 
-# 2026-27 season squad — differs from 2025-26: Orbit College and Magesi
-# relegated; Kruger United and Milford FC promoted.
+# 2026-27 season squad - differs from 2025-26: Orbit College and Magesi relegated
+# Kruger United and Milford FC promoted
 TEAMS_2026_27 = [
     {"team_name": "AmaZulu", "city": "Durban", "stadium": "Moses Mabhida Stadium", "capacity": 55500},
     {"team_name": "Chippa United", "city": "East London", "stadium": "Buffalo City Stadium", "capacity": 16000},
@@ -41,8 +36,7 @@ TEAMS_2026_27 = [
     {"team_name": "Milford FC", "city": "Durban", "stadium": "Sugar Ray Xulu Stadium", "capacity": 6500},
 ]
 
-# 2025-26 season squad, from Wikipedia's season page stadiums table.
-# Extend/adjust as you add seasons with different teams (promotion/relegation).
+# 2025-26 season squad from Wikipedia's season page stadiums table
 TEAMS_2025_26 = [
     {"team_name": "AmaZulu", "city": "Durban", "stadium": "Moses Mabhida Stadium", "capacity": 55500},
     {"team_name": "Chippa United", "city": "East London", "stadium": "Buffalo City Stadium", "capacity": 16000},
@@ -73,12 +67,7 @@ TEAMS_2024_25_HISTORICAL = [
 ]
 
 
-# Nominatim (OpenStreetMap) doesn't have these 5 stadiums indexed by name,
-# so they're hardcoded here instead. Coordinates pulled from general
-# knowledge, not a live lookup — worth a quick manual spot-check (e.g. on
-# Google Maps) before relying on them for the travel-distance feature,
-# especially Old Peter Mokaba Stadium vs Peter Mokaba Stadium (same city,
-# easy to mix up).
+# Nominatim (OpenStreetMap) doesn't have these 6 stadiums indexed by name --> hardcoded instead
 MANUAL_COORDS = {
     "Chatsworth Stadium": (-29.910398, 30.877311),
     "King Zwelithini Stadium": (-29.969496, 30.899996),
@@ -90,9 +79,6 @@ MANUAL_COORDS = {
 
 
 def apply_manual_coords(df: pd.DataFrame) -> pd.DataFrame:
-    """Fill in latitude/longitude for stadiums Nominatim can't find, using
-    MANUAL_COORDS. Only fills rows that are still missing — won't overwrite
-    a successful geocode."""
     for idx, row in df.iterrows():
         if pd.isna(row["latitude"]) and row["stadium"] in MANUAL_COORDS:
             lat, lon = MANUAL_COORDS[row["stadium"]]
@@ -113,11 +99,6 @@ def build_teams_table(rows=None) -> pd.DataFrame:
 
 
 def geocode_stadiums(df: pd.DataFrame, user_agent: str = "sa_football_analysis") -> pd.DataFrame:
-    """
-    Fill latitude/longitude columns using geopy + Nominatim.
-    Run once, then cache results to data/processed/teams.csv rather than
-    re-geocoding on every pipeline run (Nominatim rate-limits to 1 req/sec).
-    """
     from geopy.geocoders import Nominatim
     from geopy.extra.rate_limiter import RateLimiter
 

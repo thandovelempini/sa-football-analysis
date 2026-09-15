@@ -24,10 +24,6 @@ HEADERS = {
 
 
 def build_variables(season_id, stage_id=None):
-    """Builds the `variables` param. Pass stage_id=None to get the
-    default/current matchday (also returns the full list of all
-    matchday ids in the response). Pass a specific STAGES id to get
-    that matchday's matches."""
     filters = [{"id": season_id, "type": "SEASONS"}]
     if stage_id:
         filters.append({"id": stage_id, "type": "STAGES"})
@@ -46,7 +42,6 @@ def build_variables(season_id, stage_id=None):
 
 
 def fetch_matchday(season_id, stage_id=None):
-    """Makes the GraphQL request and returns the parsed JSON response."""
     params = {
         "extensions": json.dumps({"persistedQuery": {"version": 1, "sha256Hash": PERSISTED_QUERY_HASH}}, separators=(",", ":")),
         "operationName": "scoreCenterCalendarResultsByTaxonomyIdQuery",
@@ -58,21 +53,10 @@ def fetch_matchday(season_id, stage_id=None):
 
 
 def parse_fixtures(html: str, season: str, matchday: int) -> list[dict]:
-    """
-    Parse one matchday's HTML into a list of match dicts.
-
-    NOTE: selector logic below is a starting guess based on the page
-    structure seen (date header followed by "Home<score><score>Away"
-    fixture links). Inspect the actual HTML once you have a working
-    matchday URL and adjust selectors — TNT's markup may differ from
-    what a plain-text fetch showed us.
-    """
     soup = BeautifulSoup(html, "lxml")
     matches = []
     current_date = None
 
-    # Fixture links look like: /.../live-home-team-away-team_mtcXXXXXXX/live.shtml
-    # with visible text like "Orlando Pirates21Cape Town City"
     date_pattern = re.compile(r"^\d{2}/\d{2}/\d{4}$")
 
     for el in soup.find_all(string=True):
@@ -83,16 +67,10 @@ def parse_fixtures(html: str, season: str, matchday: int) -> list[dict]:
             current_date = text
             continue
 
-    # Placeholder: actual fixture parsing depends on final HTML structure
-    # once MATCHDAY_URL_TEMPLATE is working. Extend this once real pages
-    # are available to inspect.
-
     return matches
 
 
 def scrape_season(season_label, season_id) -> pd.DataFrame:
-    """Fetches all matchdays for a season and returns one combined
-    DataFrame of matches."""
 
     first_response = fetch_matchday(season_id)
     matchdays = extract_matchday_options(first_response)
@@ -113,15 +91,12 @@ def scrape_season(season_label, season_id) -> pd.DataFrame:
 
 
 def extract_matchday_options(response_json):
-    """Pulls the {matchday_label: stage_id} map from any response —
-    every response includes the full list of 30 matchday filter options,
-    regardless of which matchday was requested."""
     picker_items = response_json["data"]["scoreCenterCalendarResultsByTaxonomyId"]["filters"]["picker"]["items"]
     options = picker_items[0]["options"]
 
     matchdays = {}
     for opt in options:
-        label = opt["value"]["value"]  # e.g. "Matchday 1"
+        label = opt["value"]["value"]  # e.g "Matchday 1"
         stage_id = opt["id"]
         matchdays[label] = stage_id
 
@@ -129,7 +104,6 @@ def extract_matchday_options(response_json):
 
 
 def extract_matches(response_json):
-    """Pulls one matchday's matches into a list of dicts."""
     edges = response_json["data"]["scoreCenterCalendarResultsByTaxonomyId"]["matchCards"]["edges"]
 
     matches = []
@@ -167,12 +141,6 @@ NAME_FIXES = {
 }
 
 def clean_matches(df: pd.DataFrame) -> pd.DataFrame:
-    """Converts raw scraped columns to proper types:
-    - date: DD/MM/YYYY string -> datetime
-    - home_score/away_score: string -> nullable integer (some are None
-      for postponed/upcoming matches, so a plain int dtype won't work)
-    - adds match_id and result (H/D/A) for use in features.py
-    """
     df = df.copy()
 
     df["home_team"] = df["home_team"].replace(NAME_FIXES)

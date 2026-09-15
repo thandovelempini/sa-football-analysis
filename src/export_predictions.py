@@ -1,8 +1,5 @@
 """
-
-Trains the model (same logic as model.py) and exports a clean predictions vs actuals table 
-for use in the Power BI dashboard 
-
+Trains the model and exports a clean predictions vs actuals table for use in the Power BI dashboard 
 """
 
 import pandas as pd
